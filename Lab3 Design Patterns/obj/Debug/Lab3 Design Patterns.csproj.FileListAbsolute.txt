@@ -1,0 +1,6 @@
+C:\Users\msi1\source\repos\Lab3 Design Patterns\Lab3 Design Patterns\bin\Debug\Lab3 Design Patterns.exe.config
+C:\Users\msi1\source\repos\Lab3 Design Patterns\Lab3 Design Patterns\bin\Debug\Lab3 Design Patterns.exe
+C:\Users\msi1\source\repos\Lab3 Design Patterns\Lab3 Design Patterns\bin\Debug\Lab3 Design Patterns.pdb
+C:\Users\msi1\source\repos\Lab3 Design Patterns\Lab3 Design Patterns\obj\Debug\Lab3 Design Patterns.csproj.CoreCompileInputs.cache
+C:\Users\msi1\source\repos\Lab3 Design Patterns\Lab3 Design Patterns\obj\Debug\Lab3 Design Patterns.exe
+C:\Users\msi1\source\repos\Lab3 Design Patterns\Lab3 Design Patterns\obj\Debug\Lab3 Design Patterns.pdb
